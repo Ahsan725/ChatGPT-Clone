@@ -591,6 +591,10 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
+.bg-indigo-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(49 46 129 / var(--tw-bg-opacity));
+}
 .p-1 {
   padding: 0.25rem;
 }
@@ -641,6 +645,6 @@ video {
 }
 
 body {
-    background-color: rgba(151, 210, 237, 0.4); 
+    background-color: #060038; 
   }
 
