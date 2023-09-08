@@ -1,0 +1,10 @@
+/* globals.css */
+
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    background-color: rgba(151, 210, 237, 0.4); 
+  }
