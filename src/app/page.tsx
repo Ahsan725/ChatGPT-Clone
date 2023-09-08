@@ -11,7 +11,7 @@ export default function Home() {
         <div
           key={message.id}
           className={`border-t border-black/10 ${
-            message.role === "assistant" ? "bg-indigo-800 text-white" : "bg-indigo-900 text-white"
+            message.role === "assistant" && "bg-gray-100"
           }`}
         >
           <div className="max-w-3xl mx-auto py-6 flex">
