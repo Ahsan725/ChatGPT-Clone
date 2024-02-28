@@ -11,6 +11,8 @@ This project aims to create an AI chatbot leveraging the capabilities of the GPT
 - **Optimized Deployment**: Leveraging Vercel's Edge Network for efficient deployment, resulting in a significant reduction in website latency and overall performance enhancement.
 - **Streaming Responses**: Implemented streaming responses to reduce content delivery time, providing users with instantaneous access to information.
 
+<img src="chatterbot.gif" width="600" height="565">
+
 ## Deployment
 
 The project is deployed and hosted on Vercel's platform. The deployment process has been optimized for efficiency and performance to ensure a seamless user experience.
